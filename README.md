@@ -3,6 +3,6 @@
 
 This plugin overhauls the mobs in Minecraft. All night mobs are replaced with hoards of different types of Zombies which special abilities. 
 
-##CraftBukkit Link
+##CraftBukkit Link [Upload]
 
 Get to the End and and kill the enderdragon to fight the ultimate final boss. 
